@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/githost-ipl-dashboard/static/css/main.70cec771.chunk.css",
+    "main.js": "/githost-ipl-dashboard/static/js/main.07084d27.chunk.js",
+    "main.js.map": "/githost-ipl-dashboard/static/js/main.07084d27.chunk.js.map",
+    "runtime-main.js": "/githost-ipl-dashboard/static/js/runtime-main.a2cfdc8d.js",
+    "runtime-main.js.map": "/githost-ipl-dashboard/static/js/runtime-main.a2cfdc8d.js.map",
+    "static/js/2.c2f6be9c.chunk.js": "/githost-ipl-dashboard/static/js/2.c2f6be9c.chunk.js",
+    "static/js/2.c2f6be9c.chunk.js.map": "/githost-ipl-dashboard/static/js/2.c2f6be9c.chunk.js.map",
+    "static/js/3.d3da5e69.chunk.js": "/githost-ipl-dashboard/static/js/3.d3da5e69.chunk.js",
+    "static/js/3.d3da5e69.chunk.js.map": "/githost-ipl-dashboard/static/js/3.d3da5e69.chunk.js.map",
+    "index.html": "/githost-ipl-dashboard/index.html",
+    "static/css/main.70cec771.chunk.css.map": "/githost-ipl-dashboard/static/css/main.70cec771.chunk.css.map",
+    "static/js/2.c2f6be9c.chunk.js.LICENSE.txt": "/githost-ipl-dashboard/static/js/2.c2f6be9c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2cfdc8d.js",
+    "static/js/2.c2f6be9c.chunk.js",
+    "static/css/main.70cec771.chunk.css",
+    "static/js/main.07084d27.chunk.js"
+  ]
+}
